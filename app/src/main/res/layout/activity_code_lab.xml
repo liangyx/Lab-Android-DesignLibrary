@@ -111,13 +111,4 @@
         app:itemTextColor="#333"
         app:menu="@menu/navigation_drawer_items" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="start"
-        android:background="#ffffff"
-        android:orientation="vertical">
-
-    </LinearLayout>
-
 </android.support.v4.widget.DrawerLayout>
